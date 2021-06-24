@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h4>I'm savano miatama</h4>
-<h5>🏠 Currently based in Indonesia</h5>
+<h3>I'm savano miatama</h3>
+<h4>🏠 Currently based in Indonesia</h4>
 
 - 💻 I’m currently working on vuejs and nuxtjs based web app
 - 🌱 I’m currently learning as **front-end**
