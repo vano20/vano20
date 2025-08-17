@@ -3,7 +3,7 @@
 <h3>I'm savano miatama</h3>
 <h4>🏠 Currently based in Indonesia</h4>
 
-- <a href="https://savano20.vercel.app">vano20.github.io</a>
+- <a href="https://savano20.vercel.app">Portofolio</a>
 - 💻 I’m currently working on vuejs and nuxtjs based web app
 - 🌱 I’m currently learning as **front-end**
 - 📫 Reach me at [linkedin](https://linkedin.com/in/savano-miatama) | [savano.miatama@gmail.com](mailto:savano.miatama@gmail.com)
